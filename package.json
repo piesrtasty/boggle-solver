@@ -1,0 +1,9 @@
+{
+  "name": "luke-hamilton-rstudio-assignment",
+  "version": "0.1.0",
+  "description": "A boggle solver",
+  "dependencies": {
+    "http-server": "*"
+  },
+  "author": "Luke Hamilton"
+}
